@@ -1,5 +1,5 @@
 import conf from "../conf/config";
-import {client,Account,ID} from 'appwrite'
+import {Client,Account,ID} from 'appwrite'
 //This code is UNIVERSALLLLL
 
 
